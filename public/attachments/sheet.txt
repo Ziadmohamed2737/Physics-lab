@@ -1,0 +1,7 @@
+Physics equations quick sheet.
+
+E = F / q
+V = I R
+F = k x
+T = 2pi * sqrt(L/g)
+

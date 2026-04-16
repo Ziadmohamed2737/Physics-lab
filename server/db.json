@@ -1,0 +1,311 @@
+{
+  "users": [
+    {
+      "id": "admin_seed",
+      "name": "الدكتور",
+      "email": "admin@physicslab.com",
+      "studentCode": "ADMIN001",
+      "role": "admin",
+      "avatarId": "boy_1",
+      "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "createdAt": 1776339009432
+    },
+    {
+      "id": "u_9cff19cb82b4f108",
+      "name": "Smoke User",
+      "email": "smoke_554288@test.com",
+      "grade": "2nd_sec",
+      "avatarId": "boy_1",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": 1776329207605
+    },
+    {
+      "id": "u_5acdd7ad3aaf210b",
+      "name": "زياد",
+      "email": "zizoanter8@gmail.com",
+      "grade": "1st_sec",
+      "avatarId": "boy_2",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": 1776329584586
+    },
+    {
+      "id": "u_012b8cb58ef1747f",
+      "name": "gdgffg",
+      "email": "sdgfgf@gfggf.fsdsfd",
+      "grade": "1st_sec",
+      "avatarId": "girl_2",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": 1776331443487
+    },
+    {
+      "id": "u_d9b22664bf8b0e0c",
+      "name": "Smoke User",
+      "email": "smoke_145702@test.com",
+      "studentCode": "ST145702",
+      "role": "student",
+      "avatarId": "boy_1",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": 1776339019787
+    },
+    {
+      "id": "u_9cf918a2e5527e6c",
+      "name": "زياد محمد عنتر",
+      "email": "zizoanter@gmail.com",
+      "studentCode": "20250099",
+      "role": "student",
+      "avatarId": "boy_2",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": 1776339443177
+    },
+    {
+      "id": "u_4a3f4f14580d98a6",
+      "name": "zsds",
+      "email": "z@g.g",
+      "studentCode": "20250092",
+      "role": "student",
+      "avatarId": "girl_2",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "createdAt": 1776340585715
+    }
+  ],
+  "sessions": [
+    {
+      "token": "t_7b4d3adc5ab7bdf3",
+      "userId": "u_9cff19cb82b4f108",
+      "createdAt": 1776329207605
+    },
+    {
+      "token": "t_6ed952d8cf6025a4",
+      "userId": "u_9cff19cb82b4f108",
+      "createdAt": 1776329207624
+    },
+    {
+      "token": "t_968287784f6b70bc",
+      "userId": "u_d9b22664bf8b0e0c",
+      "createdAt": 1776339019787
+    },
+    {
+      "token": "t_35c3831b454f4f13",
+      "userId": "u_d9b22664bf8b0e0c",
+      "createdAt": 1776339019806
+    },
+    {
+      "token": "t_d4d7f374da625dac",
+      "userId": "admin_seed",
+      "createdAt": 1776339019811
+    },
+    {
+      "token": "t_bb06ebf24e991d1c",
+      "userId": "u_4a3f4f14580d98a6",
+      "createdAt": 1776340585715
+    }
+  ],
+  "progressByUserId": {
+    "u_9cff19cb82b4f108": {
+      "lectureWatch": {
+        "electric-field": 0.85
+      },
+      "completedLectures": {
+        "electric-field": true
+      },
+      "unlockedQuizzes": {
+        "quiz_electric-field": true
+      },
+      "quizAttempts": {},
+      "points": 120,
+      "badges": [
+        "first_lab"
+      ],
+      "activity": [
+        {
+          "at": 1776329207612,
+          "text": "smoke test activity"
+        }
+      ]
+    },
+    "u_5acdd7ad3aaf210b": {
+      "lectureWatch": {
+        "electric-field": 0.9956121495327103
+      },
+      "completedLectures": {
+        "electric-field": true
+      },
+      "unlockedQuizzes": {
+        "quiz_electric-field": true
+      },
+      "quizAttempts": {},
+      "points": 0,
+      "badges": [],
+      "activity": []
+    },
+    "u_012b8cb58ef1747f": {
+      "lectureWatch": {
+        "electric-field": 0.9956121495327103
+      },
+      "completedLectures": {
+        "electric-field": true
+      },
+      "unlockedQuizzes": {
+        "quiz_electric-field": true
+      },
+      "quizAttempts": {
+        "quiz_electric-field": [
+          {
+            "quizId": "quiz_electric-field",
+            "startedAt": 1776331460060,
+            "finishedAt": 1776331468151,
+            "correct": 1,
+            "total": 2,
+            "answers": {
+              "q1": "b",
+              "q2": "c"
+            }
+          }
+        ]
+      },
+      "points": 25,
+      "badges": [],
+      "activity": [
+        {
+          "at": 1776331468151,
+          "text": "حصلت على 50% في اختبار",
+          "pointsDelta": 25
+        }
+      ]
+    },
+    "u_d9b22664bf8b0e0c": {
+      "lectureWatch": {
+        "electric-field": 0.85
+      },
+      "completedLectures": {
+        "electric-field": true
+      },
+      "unlockedQuizzes": {
+        "quiz_electric-field": true
+      },
+      "quizAttempts": {},
+      "points": 120,
+      "badges": [
+        "first_lab"
+      ],
+      "activity": [
+        {
+          "at": 1776339019793,
+          "text": "smoke test activity"
+        }
+      ]
+    },
+    "u_9cf918a2e5527e6c": {
+      "lectureWatch": {
+        "electric-field": 0.22574028951463074
+      },
+      "completedLectures": {},
+      "unlockedQuizzes": {},
+      "quizAttempts": {},
+      "points": 0,
+      "badges": [],
+      "activity": []
+    },
+    "u_4a3f4f14580d98a6": {
+      "lectureWatch": {},
+      "completedLectures": {},
+      "unlockedQuizzes": {},
+      "quizAttempts": {},
+      "points": 0,
+      "badges": [],
+      "activity": []
+    }
+  },
+  "lectures": [
+    {
+      "id": "lec_baa5df2356166d6d",
+      "unit": "اختبار دخان",
+      "title": "محاضرة تجريبية 145702",
+      "description": "وصف تجريبي",
+      "youtubeId": "dQw4w9WgXcQ",
+      "difficulty": "easy",
+      "videosCount": 1,
+      "laws": [],
+      "attachments": [],
+      "createdAt": 1776339019816
+    },
+    {
+      "id": "electric-field",
+      "unit": "الكهرومغناطيسية",
+      "title": "المحاضرة 1: المجال الكهربائي",
+      "description": "فهم مفهوم المجال الكهربائي حول الشحنات وكيفية حسابه.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "difficulty": "easy",
+      "videosCount": 1,
+      "laws": [
+        {
+          "equation": "E = F / q",
+          "title": "شدة المجال الكهربائي",
+          "description": "حساب شدة المجال بدلالة القوة المؤثرة على شحنة اختبار."
+        },
+        {
+          "equation": "E = kQ / r²",
+          "title": "مجال الشحنة النقطية",
+          "description": "شدة المجال على بعد r من شحنة مولدة Q."
+        },
+        {
+          "equation": "Φ = E · A",
+          "title": "التدفق الكهربائي",
+          "description": "قياس خطوط المجال التي تعبر مساحة معينة عموديًا."
+        }
+      ],
+      "attachments": [
+        {
+          "id": "notes",
+          "name": "ملاحظات_المحاضرة_01.pdf",
+          "sizeLabel": "4.2 MB",
+          "kind": "pdf"
+        },
+        {
+          "id": "sheet",
+          "name": "معادلات_المجال.docx",
+          "sizeLabel": "1.1 MB",
+          "kind": "doc"
+        }
+      ],
+      "createdAt": 1776339009431
+    },
+    {
+      "id": "ohms-law",
+      "unit": "الكهربية والتيار",
+      "title": "المحاضرة 2: قانون أوم (توالي/توازي)",
+      "description": "الجهد والتيار والمقاومة وتطبيقات التوالي والتوازي.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "difficulty": "easy",
+      "videosCount": 1,
+      "laws": [
+        {
+          "equation": "V = I R",
+          "title": "قانون أوم",
+          "description": "العلاقة بين الجهد والتيار والمقاومة."
+        },
+        {
+          "equation": "Rₛ = R₁ + R₂ + ...",
+          "title": "مقاومات على التوالي",
+          "description": "المقاومة المكافئة مجموع المقاومات."
+        },
+        {
+          "equation": "1/Rₚ = 1/R₁ + 1/R₂ + ...",
+          "title": "مقاومات على التوازي",
+          "description": "المقاومة المكافئة في التوازي."
+        }
+      ],
+      "attachments": [
+        {
+          "id": "ohm",
+          "name": "Ohm_Law_Summary.pdf",
+          "sizeLabel": "0.9 MB",
+          "kind": "pdf"
+        }
+      ],
+      "createdAt": 1776339009431
+    }
+  ],
+  "quizzes": [],
+  "submissions": []
+}
